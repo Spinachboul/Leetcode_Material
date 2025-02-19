@@ -1,29 +1,27 @@
 class Solution {
 private:
-    void generateAllHappy(int n, vector<string> &stt, string current){
-        if(n == current.size()){
-            stt.push_back(current);
-            return;
+    void generateAllHappy(int n, int k, string current, string &res, int &index){
+        if(n == (int)current.size()){
+            index++;
+            if(index == k){
+                res = current;
+                return;
+            }
+            return;  // Don't forget to return here
         }
 
         for(char ch = 'a' ; ch <= 'c' ; ch++){
-            // skip if curr[i] == curr[i+1]
-            if(current.size() > 0 && ch == current.back()) continue;
-            generateAllHappy(n, stt, current + ch);
-
+            if(!current.empty() && current.back() == ch) continue;
+            generateAllHappy(n , k, current + ch, res, index);
+            if(!res.empty()) return; // if we get a result
         }
-
-        
     }
+
 public:
     string getHappyString(int n, int k) {
-        vector<string> stt;
-        // call the function
-        generateAllHappy(n, stt, "");
-        if(stt.size() < k) return "";
-        return stt[k-1];
-
-
-        
+        string res = "";
+        int index = 0;
+        generateAllHappy(n, k, "", res, index);
+        return res;
     }
 };
