@@ -5,14 +5,14 @@ using namespace std;
 class Solution {
     const int mod = 1e9+7;
 
-private:
-    bool isOddNumberofOdd(vector<int> &v){
-        int count = 0;
-        for(int num : v){
-            if(num % 2) count++;
-        }
-        return (count % 2) == 1;
-    }
+// private:
+//     bool isOddNumberofOdd(vector<int> &v){
+//         int count = 0;
+//         for(int num : v){
+//             if(num % 2) count++;
+//         }
+//         return (count % 2) == 1;
+//     }
 
 public:
     int numOfSubarrays(vector<int>& arr) {
