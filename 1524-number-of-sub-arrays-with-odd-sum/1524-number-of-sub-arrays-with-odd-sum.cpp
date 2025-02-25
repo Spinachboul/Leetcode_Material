@@ -18,16 +18,20 @@ public:
     int numOfSubarrays(vector<int>& arr) {
         ll count = 0;
         int n = arr.size();
-        
-        for(int left = 0; left < n; left++) {
-            for(int right = left; right < n; right++) {
-                vector<int> subarr(arr.begin() + left, arr.begin() + right + 1);
-                if(isOddNumberofOdd(subarr)){
-                    count = (count + 1) % mod;
-                }
+        int odd = 0, even = 1;
+        ll prefixSum = 0;
+        for(auto& it: arr){
+            prefixSum += it;
+            if(prefixSum % 2 == 0){
+                count  = (count + odd) % mod;
+                even++;
+            }
+            else{
+                count = (count + even) % mod;
+                odd++;
             }
         }
-
+        
         return count;
     }
 };
