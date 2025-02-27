@@ -22,7 +22,8 @@ public:
                     dp[curr][prev] = dp[prev][prevIdx] +1;
                 }
                 else{
-                    dp[curr][prev] = 2;
+                    dp[curr][prev] = 2; // this is the starting case
+                    // btw we cant have any length as 2 for FS
                 }
                 ans = max(ans, dp[curr][prev]);
             }
