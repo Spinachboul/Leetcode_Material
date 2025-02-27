@@ -1,28 +1,32 @@
 class Solution {
 public:
     int lenLongestFibSubseq(vector<int>& arr) {
-        int n = arr.size();
-        // we store the numbers in the hashmap for easy lookup
-        unordered_set<int> st(arr.begin() , arr.end());
         int ans = 0;
-        // try all possible first 2 numbers in the sequence
-        for(int start = 0 ; start < n ; start++){
-            for(int next = start+1; next < n ; next++){
-                int prev = arr[next];
-                int curr = arr[start] + arr[next];
-                int len = 2;
+        // dp[prev][curr] stores the lenght of the Fibonacci Sequence ending at indexes prev, curr
+        vector<vector<int>> dp(arr.size(), vector<int>(arr.size(), 0));
 
-                while(st.find(curr) != st.end()){
-                    int temp = curr;
-                    curr += prev;
-                    prev = temp;
-                    ans = max(ans, ++len);
+        unordered_map<int, int> mp; // for easy lookup of number index, to check if we can extend (means add 1 + currLen) for our Fibonacci Sequence
+        for(int i=0 ; i<arr.size() ; i++){
+            mp[arr[i]] = i;
+        }
+
+        for(int curr = 0 ; curr < arr.size() ; curr++){
+            for(int prev = 0 ; prev < curr ; prev++){
+                int diff = arr[curr] - arr[prev];
+                int prevIdx = -1;
+                if(mp.find(diff) != mp.end()){
+                    prevIdx = mp[diff];
                 }
+
+                if(diff < arr[prev] && prevIdx != -1){
+                    dp[curr][prev] = dp[prev][prevIdx] +1;
+                }
+                else{
+                    dp[curr][prev] = 2;
+                }
+                ans = max(ans, dp[curr][prev]);
             }
         }
-        return ans;
-
-
-        
+        return ans>2 ? ans : 0;
     }
 };
