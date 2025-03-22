@@ -1,13 +1,25 @@
 class Solution {
 private:
-    void DFS(int src, vector<vector<int>> &graph, vector<bool> &vis, set<int> &st){
+    void BFS(int src, vector<vector<int>> &graph, vector<bool> &vis, set<int> &st){
 
         // set is used to store the component
+        // vis[src] = true;
+        queue<int> q;
+        q.push(src);
         vis[src] = true;
         st.insert(src);
-        for(auto& it: graph[src]){
-            if(!vis[it]){
-                DFS(it, graph, vis, st);
+        while(!q.empty()){
+            int currNode = q.front();
+            q.pop();
+
+            // then go through the neighbors of the queue
+            for(auto& it: graph[currNode]){
+                if(!vis[it]){
+                    vis[it] = true;
+                    st.insert(it);
+                    q.push(it);
+                    
+                }
             }
         }
     }
@@ -31,7 +43,7 @@ public:
         for(int i=0 ; i<n ; i++){
             if(!vis[i]){
                 set<int> component;
-                DFS(i, graph, vis, component);
+                BFS(i, graph, vis, component);
                 
                 // check if the component formed is complete
                 int k = component.size();
