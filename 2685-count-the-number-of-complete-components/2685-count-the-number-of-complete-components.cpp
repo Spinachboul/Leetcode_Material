@@ -25,7 +25,8 @@ public:
         vector<bool> vis(n, false);
 
         // to store the number of connected components
-        vector<vector<int>> cc;
+        // vector<vector<int>> cc;
+        int ans = 0;
 
         for(int i=0 ; i<n ; i++){
             if(!vis[i]){
@@ -45,12 +46,14 @@ public:
                 actual /= 2; // each edge is actually counted twice in an adjacency list
 
                 if(actual == expected){
-                    cc.push_back(vector<int> (component.begin() , component.end()));
+                    // cc.push_back(vector<int> (component.begin() , component.end()));
+                    ans++;
                 }
             }
         }
 
-        return cc.size();
+        // return cc.size();
+        return ans;
 
 
 
