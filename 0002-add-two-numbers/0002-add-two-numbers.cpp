@@ -19,8 +19,10 @@ public:
         while(l1 != NULL || l2!= NULL || carry != 0){
             int x = l1 ? l1->val : 0;
             int y = l2 ? l2->val : 0;
+            // carry will always be added to the sum
             int sum = x + y + carry;
             carry = sum / 10;
+            // make a new node and set it to curr->next;
             curr->next = new ListNode(sum % 10);
             curr = curr->next;
             l1 = l1? l1->next : nullptr;
