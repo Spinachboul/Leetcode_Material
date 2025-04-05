@@ -1,36 +1,22 @@
 class Solution {
 private:
-    void generateSubsets(const vector<int> &nums,  int index, vector<int> subset, vector<vector<int>> &subsets){
+    int XORSum(vector<int> &nums, int index, int currXOR){
+        // return current XOR when all elements in nums are
+        // already considered
         if(index == nums.size()){
-            // we simply can add the subset to the subsets
-            subsets.push_back(subset);
-            return;
+            return currXOR;
         }
 
-        // generate subsets with nums[i]
-        subset.push_back(nums[index]);
-        generateSubsets(nums, index+1, subset, subsets);
-        subset.pop_back();
+        // calculate the sum of subset xor with current element
+        int withElement = XORSum(nums, index+1, currXOR ^ nums[index]);
+        
+        // then the sun of subset xor wihout current element
+        int withoutElement = XORSum(nums, index+1, currXOR);
 
-        // generate subsets without nums[i];
-        generateSubsets(nums, index+1, subset, subsets);
+        return withElement + withoutElement;
     }
 public:
     int subsetXORSum(vector<int>& nums) {
-        vector<vector<int>> subsets;
-        // vector<int> subset;
-        int index = 0;
-        generateSubsets(nums, index, {}, subsets);
-
-        // now for every subset, we need to find XOR total
-        long long ans = 0;
-        for(auto& subset: subsets){
-            int total = 0;
-            for(int num: subset){
-                total ^= num;
-            }
-            ans += (long long)total;
-        }
-        return ans;
+        return XORSum(nums, 0, 0);
     }
 };
