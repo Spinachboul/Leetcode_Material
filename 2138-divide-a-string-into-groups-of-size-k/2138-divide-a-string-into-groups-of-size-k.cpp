@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<string> divideString(string s, int k, char fill) {
-        vector<string> ans;
+        vector<string> res;
         int n = s.size();
         int curr = 0;
         while(curr < n){
