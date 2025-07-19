@@ -4,7 +4,7 @@ public:
         unordered_set<string> st(folder.begin(), folder.end());
         vector<string> res;
         for(auto& it: folder){
-            bool is = false
+            bool is = false;
             string prefix = it;
 
             while(!prefix.empty()){
