@@ -10,10 +10,7 @@ public:
     }
     vector<int> countBits(int n) {
         vector<int> ans(n+1);
-
-        ans[0] = 0;
-        ans[1] = 1;
-        for(int i=2 ; i<=n; i++){
+        for(int i=0 ; i<=n; i++){
             int count = fun(i);
             ans[i] = count;
         }
