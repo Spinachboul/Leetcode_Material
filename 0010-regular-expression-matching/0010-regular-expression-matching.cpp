@@ -1,16 +1,18 @@
 class Solution {
 public:
-    bool isMatch(string text, string pattern) {
-        if(pattern.empty()) return text.empty();
+    bool isMatch(string s, string p) {
+        if(p.empty()) return s.empty();
 
-        bool first_match = (!text.empty() && (pattern[0] == text[0] || pattern[0] == '.'));
+        bool firstM = (!s.empty() && (p[0] == s[0] || p[0] == '.'));
 
-        if (pattern.size() >= 2 && pattern[1] == '*') {
-            return (isMatch(text, pattern.substr(2)) || 
-                    (first_match && isMatch(text.substr(1), pattern)));
-        } else {
-            return first_match && isMatch(text.substr(1), pattern.substr(1));
+        if(p.size()>=2 && p[1] == '*'){
+            return (isMatch(s, p.substr(2)) || (firstM && isMatch(s.substr(1), p)));
+
         }
+        else{
+            return firstM && isMatch(s.substr(1), p.substr(1));
+        }
+
         
     }
 };
