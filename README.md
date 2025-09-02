@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Spinachboul/Leetcode_Material/tree/master/0010-regular-expression-matching) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Spinachboul/Leetcode_Material/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Binary Search
 |  |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Spinachboul/Leetcode_Material/tree/master/0010-regular-expression-matching) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Spinachboul/Leetcode_Material/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Memoization
 |  |
@@ -85,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Spinachboul/Leetcode_Material/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Spinachboul/Leetcode_Material/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
