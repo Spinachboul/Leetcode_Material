@@ -1,21 +1,15 @@
 class Solution {
 public:
     int makeTheIntegerZero(int num1, int num2) {
-        // if(num2 >= num1) return 0;
-
-        int ans = 1;
-        while(1){
-            long long x = num1 - static_cast<long long>(num2) * ans;
-            if(x < ans){
+        for (int k = 1; k <= 60; k++) {
+            long long x = num1 - 1LL * num2 * k;
+            if (x < k) {
                 return -1;
             }
-            if(ans >= __builtin_popcountll(x)) return ans;
-            ans++;
+            if (k >= __builtin_popcountll(x)) {
+                return k;
+            }
         }
-
-
-
-
-        
+        return -1;
     }
 };
