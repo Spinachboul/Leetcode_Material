@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Spinachboul/Leetcode_Material/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Spinachboul/Leetcode_Material/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Spinachboul/Leetcode_Material/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0289-game-of-life](https://github.com/Spinachboul/Leetcode_Material/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Spinachboul/Leetcode_Material/tree/master/0498-diagonal-traverse) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Spinachboul/Leetcode_Material/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Spinachboul/Leetcode_Material/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Spinachboul/Leetcode_Material/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/1013-fibonacci-number) |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Spinachboul/Leetcode_Material/tree/master/0055-jump-game) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Spinachboul/Leetcode_Material/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Spinachboul/Leetcode_Material/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
