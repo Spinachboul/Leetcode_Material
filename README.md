@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Spinachboul/Leetcode_Material/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Spinachboul/Leetcode_Material/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Spinachboul/Leetcode_Material/tree/master/0022-generate-parentheses) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Spinachboul/Leetcode_Material/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Spinachboul/Leetcode_Material/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Spinachboul/Leetcode_Material/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0070-climbing-stairs) |
@@ -192,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Spinachboul/Leetcode_Material/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Spinachboul/Leetcode_Material/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
