@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/Spinachboul/Leetcode_Material/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Spinachboul/Leetcode_Material/tree/master/0037-sudoku-solver) |
+| [0053-maximum-subarray](https://github.com/Spinachboul/Leetcode_Material/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0289-game-of-life](https://github.com/Spinachboul/Leetcode_Material/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Spinachboul/Leetcode_Material/tree/master/0498-diagonal-traverse) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Spinachboul/Leetcode_Material/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Spinachboul/Leetcode_Material/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Spinachboul/Leetcode_Material/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Spinachboul/Leetcode_Material/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/1013-fibonacci-number) |
@@ -198,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Spinachboul/Leetcode_Material/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Spinachboul/Leetcode_Material/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
