@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/Spinachboul/Leetcode_Material/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Spinachboul/Leetcode_Material/tree/master/0037-sudoku-solver) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0289-game-of-life](https://github.com/Spinachboul/Leetcode_Material/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Spinachboul/Leetcode_Material/tree/master/0498-diagonal-traverse) |
 | [1006-vowel-spellchecker](https://github.com/Spinachboul/Leetcode_Material/tree/master/1006-vowel-spellchecker) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/Spinachboul/Leetcode_Material/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Spinachboul/Leetcode_Material/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Spinachboul/Leetcode_Material/tree/master/1086-divisor-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Spinachboul/Leetcode_Material/tree/master/2408-number-of-people-aware-of-a-secret) |
