@@ -26,3 +26,10 @@ public:
         
     }
 };
+
+/*
+In recursion:
+1) first we peform the function 
+2) we recurse the function
+3) we backtrack
+*/
