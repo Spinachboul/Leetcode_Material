@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Spinachboul/Leetcode_Material/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Spinachboul/Leetcode_Material/tree/master/0257-binary-tree-paths) |
 | [1006-vowel-spellchecker](https://github.com/Spinachboul/Leetcode_Material/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Spinachboul/Leetcode_Material/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Spinachboul/Leetcode_Material/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2887-sort-vowels-in-a-string](https://github.com/Spinachboul/Leetcode_Material/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Spinachboul/Leetcode_Material/tree/master/3462-vowels-game-in-a-string) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Spinachboul/Leetcode_Material/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Spinachboul/Leetcode_Material/tree/master/0037-sudoku-solver) |
 | [1006-vowel-spellchecker](https://github.com/Spinachboul/Leetcode_Material/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Spinachboul/Leetcode_Material/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Spinachboul/Leetcode_Material/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Spinachboul/Leetcode_Material/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
