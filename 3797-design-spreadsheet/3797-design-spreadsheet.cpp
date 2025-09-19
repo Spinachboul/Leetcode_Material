@@ -1,0 +1,44 @@
+class Spreadsheet {
+unordered_map<string, int> cells;
+public:
+    Spreadsheet(int rows) {
+        
+    }
+    
+    void setCell(string cell, int value) {
+        cells[cell] = value;
+    }
+    
+    void resetCell(string cell) {
+        cells.erase(cell);
+        
+    }
+    
+    int getValue(string formula) {
+        int index = formula.find('+');
+        string left = formula.substr(1, index-1);
+        string right = formula.substr(index+1);
+
+        int valLeft = 
+            isalpha(left[0]) 
+            ? (cells.count(left) ? cells[left] : 0) 
+            : stoi(left);
+
+        int valRight = 
+            isalpha(right[0]) 
+            ? (cells.count(right) ? cells[right] : 0) 
+            : stoi(right);
+
+
+        return valLeft + valRight;
+        
+    }
+};
+
+/**
+ * Your Spreadsheet object will be instantiated and called as such:
+ * Spreadsheet* obj = new Spreadsheet(rows);
+ * obj->setCell(cell,value);
+ * obj->resetCell(cell);
+ * int param_3 = obj->getValue(formula);
+ */
