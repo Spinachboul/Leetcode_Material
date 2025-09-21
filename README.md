@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1013-fibonacci-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Spinachboul/Leetcode_Material/tree/master/1086-divisor-game) |
 | [1761-count-sorted-vowel-strings](https://github.com/Spinachboul/Leetcode_Material/tree/master/1761-count-sorted-vowel-strings) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0226-invert-binary-tree) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0226-invert-binary-tree) |
@@ -247,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0226-invert-binary-tree) |
