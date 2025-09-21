@@ -217,16 +217,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Spinachboul/Leetcode_Material/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Spinachboul/Leetcode_Material/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Spinachboul/Leetcode_Material/tree/master/0257-binary-tree-paths) |
 ## Combinatorics
 |  |
@@ -246,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0144-binary-tree-preorder-traversal) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Spinachboul/Leetcode_Material/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
