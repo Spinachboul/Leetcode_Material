@@ -15,7 +15,7 @@ private:
         if(root == NULL)return;
 
         queue<TreeNode*> q;
-        q.push(root);
+        q.push(root); // making the first level and also create a separator
         q.push(NULL);
         vector<int> temp;
 
