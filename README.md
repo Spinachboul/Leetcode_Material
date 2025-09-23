@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/Spinachboul/Leetcode_Material/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/Spinachboul/Leetcode_Material/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0647-palindromic-substrings](https://github.com/Spinachboul/Leetcode_Material/tree/master/0647-palindromic-substrings) |
 | [1006-vowel-spellchecker](https://github.com/Spinachboul/Leetcode_Material/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Spinachboul/Leetcode_Material/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Spinachboul/Leetcode_Material/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0494-target-sum) |
+| [0647-palindromic-substrings](https://github.com/Spinachboul/Leetcode_Material/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Spinachboul/Leetcode_Material/tree/master/1086-divisor-game) |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Spinachboul/Leetcode_Material/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/Spinachboul/Leetcode_Material/tree/master/0165-compare-version-numbers) |
+| [0647-palindromic-substrings](https://github.com/Spinachboul/Leetcode_Material/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
