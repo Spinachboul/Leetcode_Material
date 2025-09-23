@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0289-game-of-life](https://github.com/Spinachboul/Leetcode_Material/tree/master/0289-game-of-life) |
+| [0416-partition-equal-subset-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Spinachboul/Leetcode_Material/tree/master/0498-diagonal-traverse) |
 | [0747-min-cost-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0747-min-cost-climbing-stairs) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/1013-fibonacci-number) |
