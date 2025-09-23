@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Spinachboul/Leetcode_Material/tree/master/0128-longest-consecutive-sequence) |
 | [0289-game-of-life](https://github.com/Spinachboul/Leetcode_Material/tree/master/0289-game-of-life) |
 | [0416-partition-equal-subset-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0494-target-sum) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Spinachboul/Leetcode_Material/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Spinachboul/Leetcode_Material/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/Spinachboul/Leetcode_Material/tree/master/0128-longest-consecutive-sequence) |
 | [1006-vowel-spellchecker](https://github.com/Spinachboul/Leetcode_Material/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Spinachboul/Leetcode_Material/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Spinachboul/Leetcode_Material/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -336,4 +338,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Spinachboul/Leetcode_Material/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
