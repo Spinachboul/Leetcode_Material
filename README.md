@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/Spinachboul/Leetcode_Material/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Spinachboul/Leetcode_Material/tree/master/0022-generate-parentheses) |
+| [0165-compare-version-numbers](https://github.com/Spinachboul/Leetcode_Material/tree/master/0165-compare-version-numbers) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Spinachboul/Leetcode_Material/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/Spinachboul/Leetcode_Material/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Spinachboul/Leetcode_Material/tree/master/0005-longest-palindromic-substring) |
+| [0165-compare-version-numbers](https://github.com/Spinachboul/Leetcode_Material/tree/master/0165-compare-version-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
