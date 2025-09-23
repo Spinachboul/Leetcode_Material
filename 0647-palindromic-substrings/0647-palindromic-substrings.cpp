@@ -12,12 +12,19 @@ private:
 public:
     int countSubstrings(string s) {
         int n = s.size();
-        if(s=="" || s==" ") return 1;
         int count = 0;
-        for(int i=0 ; i<n ; i++){
-            for(int j=i ; j<n ; j++){
-                string sub = s.substr(i, j-i+1);
-                if(isPalindrome(sub)) count++;
+        vector<vector<bool>> dp(n, vector<bool>(n, false));
+
+
+        for(int l = 1 ; l<=n ; l++){
+            for(int i=0 ; i+l-1 < n ; i++){
+                int j  = i + l -1;
+                if(s[i] == s[j]){
+                    if(j-i<=2 || dp[i+1][j-1]){
+                        dp[i][j] = true;
+                        count++;
+                    }
+                }
             }
         }
         return count;
