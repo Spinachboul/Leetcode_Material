@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Spinachboul/Leetcode_Material/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Spinachboul/Leetcode_Material/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Spinachboul/Leetcode_Material/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Spinachboul/Leetcode_Material/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Spinachboul/Leetcode_Material/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Spinachboul/Leetcode_Material/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Spinachboul/Leetcode_Material/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Spinachboul/Leetcode_Material/tree/master/0037-sudoku-solver) |
