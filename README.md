@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Spinachboul/Leetcode_Material/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Spinachboul/Leetcode_Material/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/Spinachboul/Leetcode_Material/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Spinachboul/Leetcode_Material/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Spinachboul/Leetcode_Material/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/Spinachboul/Leetcode_Material/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Spinachboul/Leetcode_Material/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Spinachboul/Leetcode_Material/tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
 | ------- |
