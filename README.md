@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Spinachboul/Leetcode_Material/tree/master/0128-longest-consecutive-sequence) |
 | [0289-game-of-life](https://github.com/Spinachboul/Leetcode_Material/tree/master/0289-game-of-life) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Spinachboul/Leetcode_Material/tree/master/0300-longest-increasing-subsequence) |
