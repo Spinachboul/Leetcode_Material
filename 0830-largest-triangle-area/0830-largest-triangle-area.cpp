@@ -4,7 +4,7 @@ private:
         return sqrt((x1-x2) * (x1-x2)  + (y1-y2) * (y1-y2));
     }
     bool isValid(double d1, double d2, double d3){
-        return (d1 + d2 >= d3) || (d2 + d3 >= d1) || (d1 + d3 >= d2);
+        return (d1 + d2 >= d3) && (d2 + d3 >= d1) && (d1 + d3 >= d2);
     }
 public:
     double largestTriangleArea(vector<vector<int>>& points) {
