@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0747-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/Spinachboul/Leetcode_Material/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Spinachboul/Leetcode_Material/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/Spinachboul/Leetcode_Material/tree/master/1036-rotting-oranges) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Spinachboul/Leetcode_Material/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Spinachboul/Leetcode_Material/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/Spinachboul/Leetcode_Material/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Spinachboul/Leetcode_Material/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0268-missing-number) |
 | [0830-largest-triangle-area](https://github.com/Spinachboul/Leetcode_Material/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Spinachboul/Leetcode_Material/tree/master/1086-divisor-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Spinachboul/Leetcode_Material/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Spinachboul/Leetcode_Material/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -199,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Spinachboul/Leetcode_Material/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Spinachboul/Leetcode_Material/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Spinachboul/Leetcode_Material/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
