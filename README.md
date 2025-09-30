@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Spinachboul/Leetcode_Material/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2023-design-movie-rental-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Spinachboul/Leetcode_Material/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Spinachboul/Leetcode_Material/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Spinachboul/Leetcode_Material/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0289-game-of-life](https://github.com/Spinachboul/Leetcode_Material/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Spinachboul/Leetcode_Material/tree/master/0498-diagonal-traverse) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Spinachboul/Leetcode_Material/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Spinachboul/Leetcode_Material/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Dynamic Programming
 |  |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1761-count-sorted-vowel-strings](https://github.com/Spinachboul/Leetcode_Material/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Spinachboul/Leetcode_Material/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Spinachboul/Leetcode_Material/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Spinachboul/Leetcode_Material/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Spinachboul/Leetcode_Material/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Spinachboul/Leetcode_Material/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -324,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Spinachboul/Leetcode_Material/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/Spinachboul/Leetcode_Material/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Spinachboul/Leetcode_Material/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Spinachboul/Leetcode_Material/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
