@@ -1,50 +1,46 @@
 class NumArray {
-public:
-    vector<int> arr, bit;
-    NumArray(vector<int>& nums) {
-        bit = vector<int>(nums.size() +1 , 0);
-        arr = nums;
+private:
+    int n;
+    vector<int> nums;   // keep original array values
+    vector<int> bit;    // Fenwick Tree (1-indexed)
 
-        for(int i=0; i<nums.size() ; i++){
-            my_update(i, arr[i]);
+    void add(int i, int delta) {
+        // i is 1-indexed inside BIT
+        while (i <= n) {
+            bit[i] += delta;
+            i += i & -i; // move to parent
         }
-        
     }
 
-    void my_update(int i, int x){
-        i++;
-        while(i<=arr.size()){
-            bit[i] += x;
-            i = i + (i & (-i));
+    int prefixSum(int i) {
+        // sum of first i elements (nums[0..i-1])
+        int total = 0;
+        while (i > 0) {
+            total += bit[i];
+            i -= i & -i; // move to previous node
+        }
+        return total;
+    }
+
+public:
+    NumArray(vector<int>& nums) {
+        this->n = nums.size();
+        this->nums = nums;
+        bit.assign(n + 1, 0);
+
+        // build the BIT
+        for (int i = 0; i < n; i++) {
+            add(i + 1, nums[i]);
         }
     }
     
     void update(int index, int val) {
-        int diff = val - arr[index];
-        arr[index] = val;
-        my_update(index , diff);
-        
-    }
-
-    int query(int i){
-        i = i + 1;
-        int res = 0;
-        while(i > 0){
-            res += bit[i];
-            i = i - (i & (-i));
-        }
-        return res;
+        int delta = val - nums[index];
+        nums[index] = val;
+        add(index + 1, delta); // BIT is 1-indexed
     }
     
     int sumRange(int left, int right) {
-        return query(right) - query(left-1);
-        
+        return prefixSum(right + 1) - prefixSum(left);
     }
 };
-
-/**
- * Your NumArray object will be instantiated and called as such:
- * NumArray* obj = new NumArray(nums);
- * obj->update(index,val);
- * int param_2 = obj->sumRange(left,right);
- */
