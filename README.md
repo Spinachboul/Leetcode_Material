@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/Spinachboul/Leetcode_Material/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Spinachboul/Leetcode_Material/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/Spinachboul/Leetcode_Material/tree/master/0307-range-sum-query-mutable) |
 | [0416-partition-equal-subset-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Spinachboul/Leetcode_Material/tree/master/0498-diagonal-traverse) |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Spinachboul/Leetcode_Material/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Spinachboul/Leetcode_Material/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Spinachboul/Leetcode_Material/tree/master/0191-number-of-1-bits) |
+| [0307-range-sum-query-mutable](https://github.com/Spinachboul/Leetcode_Material/tree/master/0307-range-sum-query-mutable) |
 ## Stack
 |  |
 | ------- |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Spinachboul/Leetcode_Material/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/Spinachboul/Leetcode_Material/tree/master/0307-range-sum-query-mutable) |
 | [2023-design-movie-rental-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Spinachboul/Leetcode_Material/tree/master/3678-design-task-manager) |
@@ -391,4 +394,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Spinachboul/Leetcode_Material/tree/master/0133-clone-graph) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Spinachboul/Leetcode_Material/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Spinachboul/Leetcode_Material/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
