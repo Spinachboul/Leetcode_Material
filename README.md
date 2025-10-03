@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/Spinachboul/Leetcode_Material/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Spinachboul/Leetcode_Material/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/Spinachboul/Leetcode_Material/tree/master/0307-range-sum-query-mutable) |
+| [0407-trapping-rain-water-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Spinachboul/Leetcode_Material/tree/master/0498-diagonal-traverse) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/Spinachboul/Leetcode_Material/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Spinachboul/Leetcode_Material/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/Spinachboul/Leetcode_Material/tree/master/1036-rotting-oranges) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Spinachboul/Leetcode_Material/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0407-trapping-rain-water-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/Spinachboul/Leetcode_Material/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2429-design-a-food-rating-system) |
@@ -265,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Spinachboul/Leetcode_Material/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/Spinachboul/Leetcode_Material/tree/master/1036-rotting-oranges) |
 ## Game Theory
 |  |
