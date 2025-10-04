@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Spinachboul/Leetcode_Material/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Spinachboul/Leetcode_Material/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Spinachboul/Leetcode_Material/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0045-jump-game-ii) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Spinachboul/Leetcode_Material/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Spinachboul/Leetcode_Material/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0611-valid-triangle-number) |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Spinachboul/Leetcode_Material/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Spinachboul/Leetcode_Material/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/Spinachboul/Leetcode_Material/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Spinachboul/Leetcode_Material/tree/master/0647-palindromic-substrings) |
