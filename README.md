@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/Spinachboul/Leetcode_Material/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Spinachboul/Leetcode_Material/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Spinachboul/Leetcode_Material/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/Spinachboul/Leetcode_Material/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0166-fraction-to-recurring-decimal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Spinachboul/Leetcode_Material/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Spinachboul/Leetcode_Material/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Spinachboul/Leetcode_Material/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Spinachboul/Leetcode_Material/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Spinachboul/Leetcode_Material/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Spinachboul/Leetcode_Material/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Spinachboul/Leetcode_Material/tree/master/0417-pacific-atlantic-water-flow) |
@@ -203,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Spinachboul/Leetcode_Material/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Spinachboul/Leetcode_Material/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Spinachboul/Leetcode_Material/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Spinachboul/Leetcode_Material/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Spinachboul/Leetcode_Material/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0494-target-sum) |
@@ -303,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Spinachboul/Leetcode_Material/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0104-maximum-depth-of-binary-tree) |
