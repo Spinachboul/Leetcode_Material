@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Spinachboul/Leetcode_Material/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/Spinachboul/Leetcode_Material/tree/master/0794-swim-in-rising-water) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Spinachboul/Leetcode_Material/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/Spinachboul/Leetcode_Material/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0611-valid-triangle-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0747-min-cost-climbing-stairs) |
+| [0794-swim-in-rising-water](https://github.com/Spinachboul/Leetcode_Material/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Spinachboul/Leetcode_Material/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Spinachboul/Leetcode_Material/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/1018-largest-perimeter-triangle) |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Spinachboul/Leetcode_Material/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Spinachboul/Leetcode_Material/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/Spinachboul/Leetcode_Material/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Spinachboul/Leetcode_Material/tree/master/1036-rotting-oranges) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Spinachboul/Leetcode_Material/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Spinachboul/Leetcode_Material/tree/master/3748-sort-matrix-by-diagonals) |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Spinachboul/Leetcode_Material/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/Spinachboul/Leetcode_Material/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2429-design-a-food-rating-system) |
@@ -279,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Spinachboul/Leetcode_Material/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Spinachboul/Leetcode_Material/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Spinachboul/Leetcode_Material/tree/master/1036-rotting-oranges) |
 ## Game Theory
 |  |
@@ -329,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Spinachboul/Leetcode_Material/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0572-subtree-of-another-tree) |
+| [0794-swim-in-rising-water](https://github.com/Spinachboul/Leetcode_Material/tree/master/0794-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
@@ -418,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Spinachboul/Leetcode_Material/tree/master/0128-longest-consecutive-sequence) |
+| [0794-swim-in-rising-water](https://github.com/Spinachboul/Leetcode_Material/tree/master/0794-swim-in-rising-water) |
 ## Graph
 |  |
 | ------- |
