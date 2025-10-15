@@ -13,9 +13,7 @@ public:
                 prev = count;
                 count = 1;
             }
-            ans = max(ans, count/2);
-
-            ans = max(ans, min(prev, count));
+            ans = max(ans, max(count/2, min(prev, count)));
             
         }
         return ans;
