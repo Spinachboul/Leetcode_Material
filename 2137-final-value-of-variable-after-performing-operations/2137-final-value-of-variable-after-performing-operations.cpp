@@ -3,12 +3,8 @@ public:
     int finalValueAfterOperations(vector<string>& operations) {
         int n = operations.size();
         int ans = 0;
-        for(int i=0 ; i<n ; i++){
-            string curr = operations[i];
-            if(curr[0] == '-'){
-                ans -= 1;
-            }
-            else if(curr.back() == '-'){
+        for(auto& it: operations){
+            if(it=="--X" || it == "X--"){
                 ans -= 1;
             }
             else ans += 1;
