@@ -1,16 +1,18 @@
 class Solution {
 public:
     int totalMoney(int n) {
-        int ans =0;
-        int monday = 1;
-        while(n > 0){
-            for(int i=0 ; i<min(n, 7) ; i++){
-                ans += monday + i;
+        int k = n/7;
+        int F = 28;
+        int L = 28 + (k-1)*7;
+        int aSum = k * (F + L)/2;
 
-            }
-            n-= 7;
-            monday++;
+
+
+        int mon = 1 + k;
+        int fin = 0;
+        for(int i=0 ; i<n%7 ; i++){
+            fin += mon + i;
         }
-        return ans;
+        return aSum + fin;
     }
 };
