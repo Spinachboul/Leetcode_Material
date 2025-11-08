@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Spinachboul/Leetcode_Material/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Spinachboul/Leetcode_Material/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Spinachboul/Leetcode_Material/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Spinachboul/Leetcode_Material/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1761-count-sorted-vowel-strings](https://github.com/Spinachboul/Leetcode_Material/tree/master/1761-count-sorted-vowel-strings) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Spinachboul/Leetcode_Material/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Spinachboul/Leetcode_Material/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/1013-fibonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Spinachboul/Leetcode_Material/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Spinachboul/Leetcode_Material/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sorting
 |  |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Spinachboul/Leetcode_Material/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Spinachboul/Leetcode_Material/tree/master/0401-binary-watch) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Spinachboul/Leetcode_Material/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Spinachboul/Leetcode_Material/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Spinachboul/Leetcode_Material/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Spinachboul/Leetcode_Material/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
