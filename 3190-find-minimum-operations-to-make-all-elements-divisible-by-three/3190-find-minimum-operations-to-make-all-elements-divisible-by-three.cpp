@@ -1,11 +1,8 @@
 class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
-        int count = 0;
-        for(int i=0 ; i<nums.size() ; i++){
-            if(nums[i] % 3 != 0) count++;
-        }
-        return count;
-        
+        return std::accumulate(nums.begin(), nums.end(), 0, [](int acc, int v) {
+            return acc + std::min(v % 3, 3 - v % 3);
+        });
     }
 };
