@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1086-divisor-game](https://github.com/Spinachboul/Leetcode_Material/tree/master/1086-divisor-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Spinachboul/Leetcode_Material/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Spinachboul/Leetcode_Material/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Spinachboul/Leetcode_Material/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1761-count-sorted-vowel-strings](https://github.com/Spinachboul/Leetcode_Material/tree/master/1761-count-sorted-vowel-strings) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Spinachboul/Leetcode_Material/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Spinachboul/Leetcode_Material/tree/master/1993-sum-of-all-subset-xor-totals) |
