@@ -13,13 +13,16 @@ public:
             priceSum[i+1] = priceSum[i] + prices[i];
         }
 
-        // initializing the result,, setting it to largest profit already
+        // initializing the result, setting it to largest profit already
         long long res = profitSum[n];
 
 
         for(int i=k-1 ; i<n; i++){
+            // profit gotten from the left of window
             long long leftProfit = profitSum[i-k+1];
+            // profit gotten from the right of window
             long long rightProfit = profitSum[n] - profitSum[i+1];
+            // change in profit after we just add prices in second half of the window
             long long changeProfit = priceSum[i+1] - priceSum[i-k/2 + 1];   
             // Adding all the profits
             res = max(res, leftProfit + changeProfit + rightProfit);
