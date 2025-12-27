@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/Spinachboul/Leetcode_Material/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Spinachboul/Leetcode_Material/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Spinachboul/Leetcode_Material/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/Spinachboul/Leetcode_Material/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2429-design-a-food-rating-system) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Spinachboul/Leetcode_Material/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Spinachboul/Leetcode_Material/tree/master/2625-increment-submatrices-by-one) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2288-count-operations-to-obtain-zero](https://github.com/Spinachboul/Leetcode_Material/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Spinachboul/Leetcode_Material/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Spinachboul/Leetcode_Material/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/Spinachboul/Leetcode_Material/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Spinachboul/Leetcode_Material/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Spinachboul/Leetcode_Material/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Spinachboul/Leetcode_Material/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Spinachboul/Leetcode_Material/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Spinachboul/Leetcode_Material/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/Spinachboul/Leetcode_Material/tree/master/2402-meeting-rooms-iii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Spinachboul/Leetcode_Material/tree/master/2887-sort-vowels-in-a-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Spinachboul/Leetcode_Material/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Spinachboul/Leetcode_Material/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2402-meeting-rooms-iii](https://github.com/Spinachboul/Leetcode_Material/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Spinachboul/Leetcode_Material/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Spinachboul/Leetcode_Material/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -367,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/Spinachboul/Leetcode_Material/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Spinachboul/Leetcode_Material/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2023-design-movie-rental-system) |
+| [2402-meeting-rooms-iii](https://github.com/Spinachboul/Leetcode_Material/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2429-design-a-food-rating-system) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Spinachboul/Leetcode_Material/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
