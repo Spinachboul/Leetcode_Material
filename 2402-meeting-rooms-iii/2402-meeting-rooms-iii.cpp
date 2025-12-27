@@ -1,42 +1,50 @@
 class Solution {
 public:
     int mostBooked(int n, vector<vector<int>>& meetings) {
-        vector<long long> roomAvailabilityTime(n, 0);
-        vector<int> meetingCount(n, 0);
         sort(meetings.begin(), meetings.end());
 
-        for (auto& meeting: meetings) {
-            int start = meeting[0], end = meeting[1];
-            long long minRoomAvailabilityTime = LLONG_MAX;
-            int minAvailableTimeRoom = 0;
-            bool foundUnusedRoom = false;
+        vector<long long> timer(n, 0); // when each room becomes free
+        vector<int> count(n, 0);       // meetings per room
 
+        for (auto& m : meetings) {
+            long long start = m[0];
+            long long end = m[1];
+            long long dur = end - start;
+
+            int freeRoom = -1;
+            long long earliestTime = LLONG_MAX;
+            int earliestRoom = -1;
+
+            // scan rooms
             for (int i = 0; i < n; i++) {
-                if (roomAvailabilityTime[i] <= start) {
-                    foundUnusedRoom = true;
-                    meetingCount[i]++;
-                    roomAvailabilityTime[i] = end;
-                    break;
+                // track earliest finishing room
+                if (timer[i] < earliestTime) {
+                    earliestTime = timer[i];
+                    earliestRoom = i;
                 }
-
-                if (minRoomAvailabilityTime > roomAvailabilityTime[i]) {
-                    minRoomAvailabilityTime = roomAvailabilityTime[i];
-                    minAvailableTimeRoom = i;
+                // pick smallest-index free room
+                if (timer[i] <= start && freeRoom == -1) {
+                    freeRoom = i;
                 }
             }
 
-            if (!foundUnusedRoom) {
-                roomAvailabilityTime[minAvailableTimeRoom] += end - start;
-                meetingCount[minAvailableTimeRoom]++;
+            if (freeRoom != -1) {
+                // room is free at start
+                timer[freeRoom] = end;
+                count[freeRoom]++;
+            } else {
+                // delay meeting to earliest available room
+                timer[earliestRoom] += dur;
+                count[earliestRoom]++;
             }
         }
-        int maxMeetingCount = 0, maxMeetingCountRoom = 0;
-        for (int i = 0; i < n; i++) {
-            if (meetingCount[i] > maxMeetingCount) {
-                maxMeetingCount = meetingCount[i];
-                maxMeetingCountRoom = i;
+
+        int ans = 0;
+        for (int i = 1; i < n; i++) {
+            if (count[i] > count[ans]) {
+                ans = i;
             }
         }
-        return maxMeetingCountRoom;
+        return ans;
     }
 };
