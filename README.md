@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/Spinachboul/Leetcode_Material/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Spinachboul/Leetcode_Material/tree/master/0830-largest-triangle-area) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Spinachboul/Leetcode_Material/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Spinachboul/Leetcode_Material/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/Spinachboul/Leetcode_Material/tree/master/1036-rotting-oranges) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Spinachboul/Leetcode_Material/tree/master/0133-clone-graph) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/0268-missing-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Spinachboul/Leetcode_Material/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Spinachboul/Leetcode_Material/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Spinachboul/Leetcode_Material/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Spinachboul/Leetcode_Material/tree/master/1353-find-resultant-array-after-removing-anagrams) |
