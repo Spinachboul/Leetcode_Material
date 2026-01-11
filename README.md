@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Spinachboul/Leetcode_Material/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Spinachboul/Leetcode_Material/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/Spinachboul/Leetcode_Material/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Spinachboul/Leetcode_Material/tree/master/0417-pacific-atlantic-water-flow) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spinachboul/Leetcode_Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -552,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Spinachboul/Leetcode_Material/tree/master/0145-binary-tree-postorder-traversal) |
@@ -626,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Spinachboul/Leetcode_Material/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Spinachboul/Leetcode_Material/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Linked List
 |  |
