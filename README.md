@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Spinachboul/Leetcode_Material/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Spinachboul/Leetcode_Material/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/Spinachboul/Leetcode_Material/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Spinachboul/Leetcode_Material/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Array
 |  |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3625-count-number-of-trapezoids-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Spinachboul/Leetcode_Material/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/Spinachboul/Leetcode_Material/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Spinachboul/Leetcode_Material/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Spinachboul/Leetcode_Material/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Spinachboul/Leetcode_Material/tree/master/3748-sort-matrix-by-diagonals) |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3623-count-number-of-trapezoids-i](https://github.com/Spinachboul/Leetcode_Material/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Spinachboul/Leetcode_Material/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/Spinachboul/Leetcode_Material/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/Spinachboul/Leetcode_Material/tree/master/3719-longest-balanced-subarray-i) |
 | [3797-design-spreadsheet](https://github.com/Spinachboul/Leetcode_Material/tree/master/3797-design-spreadsheet) |
 | [3863-power-grid-maintenance](https://github.com/Spinachboul/Leetcode_Material/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Spinachboul/Leetcode_Material/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -572,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/Spinachboul/Leetcode_Material/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Spinachboul/Leetcode_Material/tree/master/0191-number-of-1-bits) |
 | [0307-range-sum-query-mutable](https://github.com/Spinachboul/Leetcode_Material/tree/master/0307-range-sum-query-mutable) |
+| [3719-longest-balanced-subarray-i](https://github.com/Spinachboul/Leetcode_Material/tree/master/3719-longest-balanced-subarray-i) |
 ## Stack
 |  |
 | ------- |
@@ -644,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Spinachboul/Leetcode_Material/tree/master/0307-range-sum-query-mutable) |
+| [3719-longest-balanced-subarray-i](https://github.com/Spinachboul/Leetcode_Material/tree/master/3719-longest-balanced-subarray-i) |
 ## Bitmask
 |  |
 | ------- |
