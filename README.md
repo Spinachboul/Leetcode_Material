@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Spinachboul/Leetcode_Material/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Spinachboul/Leetcode_Material/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Spinachboul/Leetcode_Material/tree/master/0747-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/Spinachboul/Leetcode_Material/tree/master/0799-champagne-tower) |
 | [1013-fibonacci-number](https://github.com/Spinachboul/Leetcode_Material/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Spinachboul/Leetcode_Material/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Spinachboul/Leetcode_Material/tree/master/1111-minimum-score-triangulation-of-polygon) |
