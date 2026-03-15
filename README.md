@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Spinachboul/Leetcode_Material/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Spinachboul/Leetcode_Material/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Spinachboul/Leetcode_Material/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/Spinachboul/Leetcode_Material/tree/master/1622-fancy-sequence) |
 | [1761-count-sorted-vowel-strings](https://github.com/Spinachboul/Leetcode_Material/tree/master/1761-count-sorted-vowel-strings) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Spinachboul/Leetcode_Material/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Spinachboul/Leetcode_Material/tree/master/1925-count-square-sum-triples) |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/Spinachboul/Leetcode_Material/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Spinachboul/Leetcode_Material/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/Spinachboul/Leetcode_Material/tree/master/0307-range-sum-query-mutable) |
+| [1622-fancy-sequence](https://github.com/Spinachboul/Leetcode_Material/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/Spinachboul/Leetcode_Material/tree/master/2429-design-a-food-rating-system) |
@@ -654,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Spinachboul/Leetcode_Material/tree/master/0307-range-sum-query-mutable) |
+| [1622-fancy-sequence](https://github.com/Spinachboul/Leetcode_Material/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/Spinachboul/Leetcode_Material/tree/master/3719-longest-balanced-subarray-i) |
 ## Bitmask
 |  |
